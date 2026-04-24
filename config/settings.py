@@ -1,0 +1,7 @@
+DB_SERVER = "localhost"
+DB_NAME = "ML_FINANCE"
+
+MODEL_FOLDER = "models/"
+
+RANDOM_STATE = 42
+TEST_SIZE = 0.2
